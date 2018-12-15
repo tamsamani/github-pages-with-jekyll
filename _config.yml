@@ -15,6 +15,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Welcome"
+date: 2018-12-15
 ---
